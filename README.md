@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakruthi542
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Java Full Stack Web Development
+- 🌱 I’m completed learning Python Full Stack Web Development
 - 💞️ I’m looking for a web developer role
 - 📫 How to reach me :- prakruthirprakruthir542@gmail.com
   
